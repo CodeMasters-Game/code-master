@@ -3,10 +3,9 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	plugins: [sveltekit()],
-	optimizeDeps: {
-		include: ['flowbite']
-	},
-	ssr: {
-		noExternal: ['flowbite-svelte']
+	build: {
+		rollupOptions: {
+			external: ['flowbite/dist/flowbite.css']
+		}
 	}
 });
