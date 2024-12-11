@@ -1,17 +1,10 @@
-# KPPOS - Kape Rustiko Point of Sale System with Inventory Management System
+#  CODEWARS - Coding Gamification System
 
 Members:
 - Dayandante, Michael D.
-- Biaculo, Richard Angelo
-- Nario, Nandy
 
-Beneficiaries:
-- Rosqueta, Arthur
-- Rosqueta, Maybelouisse
-
-Advisers:
-- Sir John Dominic Pagot
-- Sir Loudel Manaloto
+Adviser:
+- Sir Jedd
 
 Frontend:
 - SvelteKit
@@ -46,6 +39,3 @@ Modules:
 Commands:
 - npm run tauri dev
 
-Reminders:
-- Always commit on branch first before pushing to main repository
-- Always put comments on the code
