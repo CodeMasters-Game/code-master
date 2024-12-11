@@ -1,38 +1,51 @@
-# sv
+# KPPOS - Kape Rustiko Point of Sale System with Inventory Management System
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Members:
+- Dayandante, Michael D.
+- Biaculo, Richard Angelo
+- Nario, Nandy
 
-## Creating a project
+Beneficiaries:
+- Rosqueta, Arthur
+- Rosqueta, Maybelouisse
 
-If you're seeing this, you've probably already done this step. Congrats!
+Advisers:
+- Sir John Dominic Pagot
+- Sir Loudel Manaloto
 
-```bash
-# create a new project in the current directory
-npx sv create
+Frontend:
+- SvelteKit
+- Flowbite
+- TailwindCSS
+- FontAwesome
+- Tauri
 
-# create a new project in my-app
-npx sv create my-app
-```
+Backend:
+- PHP
+- MySQL
+- Postman
+- XAMPP
 
-## Developing
+Modules:
+- npm install
+- npm install tailwindcss
+- npm install flowbite
+- npm install flowbite-svelte
+- npm install font-awesome
+- npm install svelte svelte-chartjs @sveltejs/kit
+- npm install @tauri-apps/icons
+- npm install --save-dev @sveltejs/adapter-static
+- npm install --save-dev @tauri-apps/cli
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- npm install express
+- npm install mysql
+- npm install body-parser
+- npm install cors
 
-```bash
-npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Commands:
+- npm run tauri dev
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Reminders:
+- Always commit on branch first before pushing to main repository
+- Always put comments on the code
